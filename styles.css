@@ -1,1 +1,60 @@
 /*  your css code here. If applicable */
+body{
+	margin:0;
+	background-color: rgb(135, 206,235);
+	display:flex;
+	pseudo-class:root;
+}
+#ab{
+	background-color:black;
+	margin-top:0;
+	display:flex;
+	width:100%;
+	text-align:justify;
+	height:40px;
+	color:white;
+}
+#last-child{
+	color:red;
+}
+#a{
+	background-color:white;
+	
+	/* display:flex; */
+	width:70%;
+	height:40px;
+	align-items:center;
+	/* text-align:center; */
+}
+#b{
+	background-color:gray;
+	/* display:flex; */
+	width:70%;
+	height:40px;
+	align-items:center;
+	/* text-align:center; */
+}
+#c{
+	background-color:pink;
+	/* display:flex; */
+	width:70%;
+	height:40px;
+	align-items:center;
+	/* text-align:center; */
+}
+#d{
+	background-color:gray;
+	/* display:flex; */
+	width:70%;
+	height:40px;
+	align-items:center;
+	/* text-align:center; */
+}
+#e{
+	background-color:white;
+	/* display:flex; */
+	width:70%;
+	height:40px;
+	align-items:center;
+	/* text-align:center; */
+}
