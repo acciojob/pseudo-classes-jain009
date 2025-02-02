@@ -17,44 +17,48 @@ body{
 #last-child{
 	color:red;
 }
+#abc{
+	width:50%;
+	padding:10px;
+}
 #a{
 	background-color:white;
-	
+	font-size:22px
 	/* display:flex; */
-	width:70%;
-	height:40px;
+
 	align-items:center;
 	/* text-align:center; */
 }
 #b{
 	background-color:gray;
 	/* display:flex; */
-	width:70%;
-	height:40px;
+	
+
 	align-items:center;
 	/* text-align:center; */
 }
 #c{
 	background-color:pink;
 	/* display:flex; */
-	width:70%;
-	height:40px;
+	
+	
 	align-items:center;
 	/* text-align:center; */
 }
 #d{
 	background-color:gray;
 	/* display:flex; */
-	width:70%;
-	height:40px;
+
+
 	align-items:center;
 	/* text-align:center; */
 }
 #e{
 	background-color:white;
+	font-size:22px;
 	/* display:flex; */
-	width:70%;
-	height:40px;
+
+
 	align-items:center;
 	/* text-align:center; */
 }
